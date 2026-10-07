@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pavanmasaresp-maker.github.io/Aureon-Technology-/sitemap.xml

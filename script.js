@@ -14,6 +14,6 @@ Project Type: ${data.get("type")}
 
 Project Details:
 ${data.get("message")}`);
-  window.location.href=`mailto:hello@aureontechnologies.com?subject=${subject}&body=${body}`;
+  window.location.href=`mailto:pavanmasare993@gmail.com?subject=${subject}&body=${body}`;
 });
 document.getElementById("themeBtn")?.addEventListener("click",()=>{const r=document.documentElement,n=r.dataset.theme==="light"?"dark":"light";r.dataset.theme=n;try{localStorage.setItem("aureon-theme",n)}catch(e){}});
